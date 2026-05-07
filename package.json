@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "labtest",
   "main": "app.js",
-"scripts": {
-  "test": "node test.js"
-}
+  "scripts": {
+    "test": "node test.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mikesaber04/ci-lab-demo.git"
